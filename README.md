@@ -2,7 +2,7 @@
 
 Dieses Projekt basiert auf einem ursprünglichen Repository von [Shadid12](https://github.com/Shadid12) und wurde modifiziert.
 
-Der ursprüngliche Code, auf dem dieses Projekt basiert, finden Sie [hier]([Link zum ursprünglichen Repository](https://github.com/Shadid12/flask-graphql).
+Der ursprüngliche Code, auf dem dieses Projekt basiert, finden Sie [hier](Link zum ursprünglichen Repository](https://github.com/Shadid12/flask-graphql).
 
 ## Zielsetzung ##
 
