@@ -26,7 +26,7 @@ Dieses Projekt basiert auf einem ursprünglichen Repository von [Shadid12](https
    ```
 2. Legen Sie eine Datenbank an (hier PostgreSQL)
    
-4. Passen Sie 'api/__init__.py' an, indem Sie 'YourUserName', 'YourPassword', 'YourHostname', und 'YourDatabaseName' ersetzen:
+4. Passen Sie `api/__init__.py` an, indem Sie `YourUserName`, `YourPassword`, `YourHostname`, und `YourDatabaseName` ersetzen:
 
 ```
 app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://YourUserName:YourPassword@YourHostname:5432/YourDatabaseName"
