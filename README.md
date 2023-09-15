@@ -47,8 +47,6 @@ set FLASK_APP=app.py
 flask run
 ```
 
-## Referenzen ##
-
 ## Referenzen
 
 - [Apollo Explorer](https://www.apollographql.com/docs/graphos/explorer/): The GraphOS Studio Explorer (zuletzt aktualisiert am 14.09.2023).
@@ -56,6 +54,7 @@ flask run
 - [Flask](https://flask.palletsprojects.com/en/2.3.x/): Welcome to Flask — Flask Documentation (2.3.x) (zuletzt aktualisiert am 21.06.2023).
 - [GraphQL](https://graphql.org/): GraphQL | A query language for your API (zuletzt aktualisiert am 12.09.2023).
 - Haque, S. (2023): [Using GraphQL with Python – A Complete Guide - Apollo GraphQL Blog](https://www.apollographql.com/blog/graphql/python/complete-api-guide/) (zuletzt aktualisiert am 14.09.2023).
+- [GraphQL](https://graphql.org/): GraphQL | A query language for your API (zuletzt aktualisiert am 15.09.2023)
 
 
 
