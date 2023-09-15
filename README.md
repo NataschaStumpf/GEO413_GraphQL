@@ -56,5 +56,5 @@ Flask (2023): Welcome to Flask — Flask Documentation (2.3.x). Online verfügba
 GraphQL (2023): GraphQL | A query language for your API. Online verfügbar unter https://graphql.org/, zuletzt aktualisiert am 12.09.2023, zuletzt geprüft am 12.09.2023.
 
 Haque, S. (2023): Using GraphQL with Python – A Complete Guide - Apollo GraphQL Blog. Online verfügbar unter https://www.apollographql.com/blog/graphql/python/complete-api-guide/, zuletzt aktualisiert am 14.09.2023, zuletzt geprüft am 14.09.2023.
-![image](https://github.com/NataschaStumpf/GEO413_GraphQL/assets/73939232/07a4d4bb-41a1-42ac-b1d5-a850aadc161d)
+
 
