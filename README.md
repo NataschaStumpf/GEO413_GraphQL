@@ -1,8 +1,5 @@
 # GEO413_GraphQL
 
-![GitHub contributors](https://img.shields.io/github/contributors/Shadid12/GEO413_GraphQL)
-![GitHub last commit](https://img.shields.io/github/last-commit/Shadid12/GEO413_GraphQL)
-
 Dieses Projekt basiert auf einem ursprünglichen Repository von [Shadid12](https://github.com/Shadid12) und wurde modifiziert.
 
 **Ursprüngliches Repository:** [Shadid12/flask-graphql](https://github.com/Shadid12/flask-graphql)
