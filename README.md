@@ -32,6 +32,20 @@ conda activate GEO413_GraphQL
 app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://YourUserName:YourPassword@YourHostname:5432/YourDatabaseName"
 ```
 
+4. Graph erstellen (hier Apollo Explorer)
+
+Endpoint: http://localhost:5000/graphql
+
+5. Flask run
+   
+```
+conda activate GEO413_GraphQL
+cd \
+set FLASK_APP=app.py
+echo %FLASK_APP%
+flask run
+```
+
 ## Referenzen ##
 
 Haque, S. (2023): Using GraphQL with Python – A Complete Guide - Apollo GraphQL Blog. Online verfügbar unter https://www.apollographql.com/blog/graphql/python/complete-api-guide/, zuletzt aktualisiert am 14.09.2023, zuletzt geprüft am 14.09.2023.
